@@ -15,25 +15,25 @@ Developed a simple console-based to-do list app where users can add, update, vie
 **Description:**  
 Created a basic calculator that performs operations like addition, subtraction, multiplication, and division using Python.  
 **Concepts Used:** Functions, Loops, Conditional Statements, Exception Handling  
-**Status:** ✅ Completed  
+**Status:** ✅ ongoing
 
 ### 🔹 Task 3: Password Generator
 **Description:**  
 Built a random password generator that allows users to specify the length and type of characters (letters, numbers, symbols).  
 **Concepts Used:** Random Module, String Handling, Loops  
-**Status:** ✅ Completed  
+**Status:** ✅ ongoing  
 
 ### 🔹 Task 4: Rock-Paper-Scissors Game
 **Description:**  
 Designed an interactive Rock-Paper-Scissors game where the user competes against the computer.  
 **Concepts Used:** Random Module, Conditional Statements, Loops  
-**Status:** ✅ Completed  
+**Status:** ✅ ongoing 
 
 ### 🔹 Task 5: Contact Book
 **Description:**  
 Implemented a contact book that allows users to add, search, update, and delete contact details using Python.  
 **Concepts Used:** Dictionaries, File Handling, Functions  
-**Status:** ✅ Completed  
+**Status:** ✅ ongoing 
 
 ---
 
