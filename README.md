@@ -15,7 +15,7 @@ Developed a simple console-based to-do list app where users can add, update, vie
 **Description:**  
 Created a basic calculator that performs operations like addition, subtraction, multiplication, and division using Python.  
 **Concepts Used:** Functions, Loops, Conditional Statements, Exception Handling  
-**Status:** ✅ ongoing
+**Status:** ✅ Completed
 
 ### 🔹 Task 3: Password Generator
 **Description:**  
