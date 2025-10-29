@@ -21,7 +21,7 @@ Created a basic calculator that performs operations like addition, subtraction, 
 **Description:**  
 Built a random password generator that allows users to specify the length and type of characters (letters, numbers, symbols).  
 **Concepts Used:** Random Module, String Handling, Loops  
-**Status:** ✅ ongoing  
+**Status:** ✅ Completed
 
 ### 🔹 Task 4: Rock-Paper-Scissors Game
 **Description:**  
